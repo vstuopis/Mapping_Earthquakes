@@ -1,0 +1,11 @@
+html,
+body,
+/* Refrencing the "id" tage on the index.html page */
+#mapid {
+/* Setting the width of the <div> element to 100% of the page */
+  width: 100%;
+/* Setting the height of the <div> element to 100% of the page */
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
